@@ -11,3 +11,7 @@ pom.xml.asc
 /.prepl-port
 .hgignore
 .hg/
+.shadow-cljs/
+package-lock.json
+node_modules/
+resources/public/
