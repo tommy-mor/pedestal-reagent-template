@@ -1,10 +1,12 @@
-# lesson
+to start in emacs, run
 
-A Clojure library designed to ... well, that part is up to you.
+In two different emacs instances
+``M-x cider-jack-in-clj``
+``M-x cider-jack-in-cljs``
 
-## Usage
+then eval ``(start)`` in core.clj to start the web server
 
-FIXME
+
 
 ## License
 
